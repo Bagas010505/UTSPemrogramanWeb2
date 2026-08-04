@@ -10,3 +10,5 @@
 
 
 ![gambar](Screenshot/SS5.png)
+
+![gambar](Screenshot/SS6.png)
