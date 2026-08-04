@@ -9,12 +9,14 @@
 ![gambar](Screenshot/SS4.png)
 
 # 1. Struktur HTML
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
 <!DOCTYPE html> menunjukkan bahwa halaman menggunakan HTML5.
 <html lang="id"> berarti bahasa halaman adalah Bahasa Indonesia.
 <head> berisi informasi halaman seperti judul dan CSS.
+    
 2. Judul Halaman
 <title>Data Mahasiswa</title>
 
